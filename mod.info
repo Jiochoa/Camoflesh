@@ -1,7 +1,8 @@
 name=Camoflesh
 id=Camoflesh
 description=Carrying a zombie corpse masks you from unaware zombies. Inspired by The Walking Dead camouflage technique. Zombies already chasing you before you picked up the corpse will keep attacking, but any zombie that hasn't spotted you yet will ignore you. Includes a sandbox option to reduce corpse weight.
-author=
+author=aaaaa
 modversion=1.0
-versionMin=42.0
-versionMax=42.99
+versionMin=42.00.0
+versionMax=42.99.0
+poster=poster.png
