@@ -1,5 +1,0 @@
-Sandbox_EN = {
-    Sandbox_Camoflesh = "Camoflesh",
-    Sandbox_Camoflesh_CorpseWeightMultiplier = "Corpse Weight Multiplier",
-    Sandbox_Camoflesh_CorpseWeightMultiplier_tooltip = "Multiplier applied to a corpse's weight the moment you pick it up (0.1 = very light, 1.0 = full weight). Lower values reduce the stamina drain from encumbrance. The speed penalty from carrying the body still applies.",
-}

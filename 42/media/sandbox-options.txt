@@ -1,0 +1,17 @@
+VERSION = 1,
+
+option Camoflesh.NoCorpseExertion
+{
+    type = boolean,
+    default = true,
+    page = Camoflesh,
+    translation = Camoflesh_NoCorpseExertion,
+}
+
+option Camoflesh.ZombieIgnoreCorpseCarrier
+{
+    type = boolean,
+    default = true,
+    page = Camoflesh,
+    translation = Camoflesh_ZombieIgnoreCorpseCarrier,
+}

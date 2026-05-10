@@ -1,0 +1,7 @@
+Sandbox_EN = {
+    Sandbox_Camoflesh = "Camoflesh",
+    Sandbox_Camoflesh_NoCorpseExertion = "No Corpse Exertion",
+    Sandbox_Camoflesh_NoCorpseExertion_tooltip = "When enabled, dragging a zombie corpse does not drain your endurance or cause exertion moodles.",
+    Sandbox_Camoflesh_ZombieIgnoreCorpseCarrier = "Zombie Corpse Camouflage",
+    Sandbox_Camoflesh_ZombieIgnoreCorpseCarrier_tooltip = "When enabled, zombies that have not already spotted you will ignore you while you are dragging a corpse.",
+}
